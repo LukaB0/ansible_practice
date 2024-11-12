@@ -63,3 +63,11 @@
       name: mariadb-server
       state: latest
     when: ansible_distribution == "Ubuntu"
+
+  - name: start mariadb (Ubuntu)
+    tags: db,mariadb,ubuntu
+    service:
+      name: mariadb
+      state: started
+      enabled: yes
+    when: ansible_distribution == "Ubuntu"
