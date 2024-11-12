@@ -1,1 +1,1 @@
-cloud_user@34.209.122.152 apache_package=apache2 php_package=libapache2-mod-php
+ec2-user@ec2-3-17-11-160.us-east-2.compute.amazonaws.com apache_package=apache2 php_package=libapache2-mod-php
