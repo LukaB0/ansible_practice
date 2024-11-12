@@ -1,0 +1,1 @@
+ubuntu@ec2-3-145-160-140.us-east-2.compute.amazonaws.com apache_package=apache2 php_package=libapache2-mod-php
