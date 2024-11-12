@@ -3,3 +3,6 @@ ubuntu@ec2-3-145-160-140.us-east-2.compute.amazonaws.com
 
 [db_servers]
 ubuntu@ec2-3-145-160-140.us-east-2.compute.amazonaws.com
+
+[workstations]
+ubuntu@ec2-3-145-160-140.us-east-2.compute.amazonaws.com
